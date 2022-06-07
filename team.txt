@@ -3,6 +3,8 @@ public void before(){
 }
 public void center(){
 edit center master
+
+edit center bran
 }
 public void after(){
 
